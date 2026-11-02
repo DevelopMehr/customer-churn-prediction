@@ -7,6 +7,9 @@ A machine learning app that predicts how likely a telecom customer is to leave, 
 ## Dataset
 IBM Telco Customer Churn (Kaggle). 7,043 customers, 21 columns. 26.5% of customers churned.
 
+<img width="800" height="500" alt="feature_importance" src="https://github.com/user-attachments/assets/91ea3733-d4df-4ead-a304-733e100ca9dc" />
+
+
 ## What I did
 1. Cleaned the data (removed 11 rows with missing TotalCharges, dropped the ID column)
 2. Split 80/20 and built a baseline
