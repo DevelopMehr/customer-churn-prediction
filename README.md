@@ -25,8 +25,6 @@ IBM Telco Customer Churn (Kaggle). 7,043 customers, 21 columns. 26.5% of custome
 The baseline (always predicting "stays") scores 73.4% accuracy but catches no churners, so accuracy alone is misleading.
 I chose logistic regression with a 0.4 threshold: precision 0.579, recall 0.684, F1 0.627.
 
-<img src="images/feature_importance.png" width="600">
-
 Short tenure, month-to-month contracts and fiber optic internet push toward churn. Two-year contracts push toward staying.
 
 ## Limitations
