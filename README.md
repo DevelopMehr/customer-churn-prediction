@@ -2,7 +2,7 @@
 
 A machine learning app that predicts how likely a telecom customer is to leave, so a company can contact high-risk customers first.
 
-**Live demo:** PASTE-YOUR-LINK-HERE
+**Live demo:** [https://customer-churn-prediction-90.streamlit.app/]
 
 ## Dataset
 IBM Telco Customer Churn (Kaggle). 7,043 customers, 21 columns. 26.5% of customers churned.
